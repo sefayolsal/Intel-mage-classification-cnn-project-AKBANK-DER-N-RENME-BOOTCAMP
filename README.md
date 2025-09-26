@@ -13,7 +13,7 @@ Veri seti: Intel Image Classification (Kaggle)
 
 Yöntem: Convolutional Neural Network (CNN)
 
-Amaç: Görüntüleri 33 farklı sınıfa ayırmak
+Amaç: Görüntüleri 6 farklı sınıfa olabildiğince yüksek bir doğruluk oranıyla ayırmak
 
 Kullanılan teknolojiler: TensorFlow, Keras, NumPy, Matplotlib, Seaborn, OpenCV
 
