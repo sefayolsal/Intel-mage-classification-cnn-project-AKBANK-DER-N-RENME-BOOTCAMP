@@ -3,7 +3,7 @@
 Bu repo, Akbank Derin Öğrenme Bootcamp kapsamında geliştirilmiştir.
 Proje, Intel Image Classification Dataset üzerinde CNN tabanlı bir model kurarak görüntü sınıflarını (dağ, deniz, orman, sokak vb.) sınıflandırmayı amaçlamaktadır.
 
- Giriş
+ #Giriş
 
 Bu projede:
 
@@ -20,7 +20,7 @@ Projenin teknik anlatımı, notebook içerisindeki markdown hücrelerinde detayl
 
 
 
- Metrikler ve Yorumlar
+ #Metrikler ve Yorumlar
 
 Modelin performansı aşağıdaki metriklerle değerlendirilmiştir:
 
@@ -35,7 +35,7 @@ Classification Report: Precision, recall ve F1 skorları sınıflara göre değe
 
 
 
-Çıkarımlar
+#Çıkarımlar
 
 Model, görsel olarak çok benzer sınıfları ayırt etmekte zorlanmıştır.
 
@@ -47,7 +47,7 @@ Bu sonuçlardan hareketle, modelin genel performansının tatmin edici, ancak ba
 
 
 
- Sonuç ve Gelecek Çalışmalar
+ #Sonuç ve Gelecek Çalışmalar
 
 Bu çalışmada temel bir CNN modeli ile başarılı sonuçlar elde edilmiştir.
 Ancak ilerleyen aşamalarda:
