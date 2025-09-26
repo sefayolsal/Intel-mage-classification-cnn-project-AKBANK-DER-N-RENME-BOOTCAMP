@@ -1,5 +1,5 @@
 # Intel-mage-classification-cnn-project-AKBANK-DER-N-RENME-BOOTCAMP
-🌍 Akbank Bootcamp – Intel Görüntü Sınıflandırma
+🌍 Akbank Bootcamp 
 
 Bu repo, Akbank Derin Öğrenme Bootcamp kapsamında geliştirilmiştir.
 Proje, Intel Image Classification Dataset üzerinde CNN tabanlı bir model kurarak görüntü sınıflarını (dağ, deniz, orman, sokak vb.) sınıflandırmayı amaçlamaktadır.
