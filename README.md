@@ -5,11 +5,11 @@ AKBANK DERİN ÖĞRENME BOOTCAMPİ kapsamında bu proje, kapsamlı veri artırma
 Bu repo, Akbank Derin Öğrenme Bootcamp kapsamında geliştirilmiştir.
 Proje, Intel Image Classification Dataset üzerinde CNN tabanlı bir model kurarak görüntü sınıflarını (dağ, deniz, orman, sokak vb.) sınıflandırmayı amaçlamaktadır.
 
-📌 Giriş
+📌 #Giriş
 
 Bu projede:
 
-Veri seti: Intel Image Classification (Kaggle)
+Veri seti: Intel Image Classification (Kaggle) https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
 Yöntem: Convolutional Neural Network (CNN)
 
@@ -43,16 +43,6 @@ Bu sonuçlardan hareketle, modelin genel performansının tatmin edici, ancak ba
 
 🚀 Ekler (Deployment ve Ekstra Çalışmalar)
 
-Proje Kaggle/Colab GPU ortamında çalıştırılabilir, böylece eğitim süresi ciddi şekilde kısalmaktadır.
-
-Ek olarak, model .h5 formatında kaydedilip Streamlit tabanlı bir arayüz ile deploy edilebilir.
-
-Örneğin UI/ klasöründe bir app.py dosyası bulunabilir.
-
-Kullanıcılar bir görsel yüklediğinde, model tahmini sınıfı ekranda gösterebilir.
-
-Unsupervised yöntem opsiyonel olarak eklenebilir:
-
 CNN’den elde edilen özellikler üzerinde k-means clustering veya PCA uygulanarak sınıflar arasındaki benzerlikler incelenebilir.
 
 🔮 Sonuç ve Gelecek Çalışmalar
@@ -69,3 +59,7 @@ Streamlit veya benzeri araçlarla kullanıcı dostu bir arayüz eklenebilir.
 Unsupervised yöntemler eklenerek daha kapsamlı bir proje haline getirilebilir.
 
 Bu proje, bootcamp sonrası da geliştirilmeye açık olup, yeni özellikler eklenerek daha profesyonel hale getirilebilir.
+
+Linkler
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+https://www.kaggle.com/code/sefayolsal0661/akbank-derin-renme-cnn
