@@ -1,11 +1,10 @@
 # Intel-mage-classification-cnn-project-AKBANK-DER-N-RENME-BOOTCAMP
-AKBANK DERİN ÖĞRENME BOOTCAMPİ kapsamında bu proje, kapsamlı veri artırma teknikleri ve özelleştirilmiş bir Evrişimli Sinir Ağı (CNN) mimarisi kullanarak bir görüntü veri seti üzerindeki sınıflandırma doğruluğunu maksimize etmeyi amaçlamaktadır
 🌍 Akbank Bootcamp – Intel Görüntü Sınıflandırma
 
 Bu repo, Akbank Derin Öğrenme Bootcamp kapsamında geliştirilmiştir.
 Proje, Intel Image Classification Dataset üzerinde CNN tabanlı bir model kurarak görüntü sınıflarını (dağ, deniz, orman, sokak vb.) sınıflandırmayı amaçlamaktadır.
 
-📌 #Giriş
+📌 Giriş
 
 Bu projede:
 
@@ -19,6 +18,9 @@ Kullanılan teknolojiler: TensorFlow, Keras, NumPy, Matplotlib, Seaborn, OpenCV
 
 Projenin teknik anlatımı, notebook içerisindeki markdown hücrelerinde detaylı olarak verilmiştir.
 
+
+
+
 📊 Metrikler ve Yorumlar
 
 Modelin performansı aşağıdaki metriklerle değerlendirilmiştir:
@@ -31,6 +33,9 @@ Confusion Matrix: Bazı sınıflar (ör. dağ ve orman) arasında karışıklık
 
 Classification Report: Precision, recall ve F1 skorları sınıflara göre değerlendirilmiştir.
 
+
+
+
 🧠 Çıkarımlar
 
 Model, görsel olarak çok benzer sınıfları ayırt etmekte zorlanmıştır.
@@ -41,9 +46,7 @@ Callback mekanizmaları (EarlyStopping, ReduceLROnPlateau, ModelCheckpoint) eği
 
 Bu sonuçlardan hareketle, modelin genel performansının tatmin edici, ancak bazı sınıflarda iyileştirmeye ihtiyaç duyduğu yorumunu yapabiliriz.
 
-🚀 Ekler (Deployment ve Ekstra Çalışmalar)
 
-CNN’den elde edilen özellikler üzerinde k-means clustering veya PCA uygulanarak sınıflar arasındaki benzerlikler incelenebilir.
 
 🔮 Sonuç ve Gelecek Çalışmalar
 
@@ -54,12 +57,11 @@ Daha derin modeller (ResNet, EfficientNet, VGG16 transfer learning) denenebilir.
 
 Gerçek zamanlı veri toplama ve sınıflandırma senaryoları geliştirilebilir.
 
-Streamlit veya benzeri araçlarla kullanıcı dostu bir arayüz eklenebilir.
-
 Unsupervised yöntemler eklenerek daha kapsamlı bir proje haline getirilebilir.
 
 Bu proje, bootcamp sonrası da geliştirilmeye açık olup, yeni özellikler eklenerek daha profesyonel hale getirilebilir.
 
 Linkler
 https://www.kaggle.com/datasets/puneet6060/intel-image-classification
-https://www.kaggle.com/code/sefayolsal0661/akbank-derin-renme-cnn
+
+  https://www.kaggle.com/code/sefayolsal0661/akbank-derin-renme-cnn
